@@ -1,4 +1,4 @@
-### MiniPayrollManagementSystem - Domain Logic
+# Mini Payroll Management System
 
 ### Overview
 The Mini Payroll Management System is designed to manage employee payroll processes. It involves tracking employee details, calculating salaries, managing deductions, and generating payroll reports.
