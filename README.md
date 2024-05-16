@@ -30,12 +30,3 @@ The Mini Payroll Management System is designed to manage employee payroll proces
    - Apply deductions.
    - Calculate net salary.
 3. **Generate Reports**: Create and store payslips and payroll summaries.
-
-### Example Code Structure
-
-- **Models**: Represent data structures (e.g., Employee, Payroll).
-- **Services**: Handle business logic (e.g., PayrollService for calculations).
-- **Repositories**: Manage data storage (e.g., EmployeeRepository).
-- **Controllers**: Interface with the console app for user inputs and outputs.
-
-This description outlines the domain logic for the payroll management system. For detailed implementation, you can refer to the source code on [GitHub](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniPayrollManagementSystem).
